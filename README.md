@@ -9,11 +9,7 @@ A simple budget tracker for managing my income, expenses and savings
   <h1>Tracker</h1>
 
   <h2>Income: 25000</h2>
-  <input type="number" placeholder="25000">
-
   <h2>Expense:15000</h2>
-  <input type="number" placeholder="15000">
-
-  <h2>Balance: Kshs. 10000</h2>
+    <h2>Balance: Kshs. 10000</h2>
 </body>
 </html>
