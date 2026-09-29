@@ -14,8 +14,6 @@ A simple budget tracker for managing my income, expenses and savings
   <h2>Expense</h2>
   <input type="number" placeholder="15000">
 
-  <button>calculate balance</button>
-
-  <h2>balance: Kshs. 10000</h2>
+  <h2>Balance: Kshs. 10000</h2>
 </body>
 </html>
